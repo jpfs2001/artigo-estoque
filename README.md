@@ -15,7 +15,7 @@ vitorsilvestre_9@hotmail.com</p>
 campos.carlosjr@outlook.com</p>
 
 <p>João Pedro de F. Silva<br>
-ppfreitas2001@gmail.com</br>
+jpfreitas2001@gmail.com</p>
 
 <p>Moacir S. P. Torres<br>
 moacirtorress@gmail.com</p>
